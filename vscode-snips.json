@@ -1,0 +1,15 @@
+{
+    "Properly formatted VS Code Snippet": {
+        "prefix": "helloworld",
+        "body": [
+            "#include <iostream>",
+            "",
+            "using namespace std;",
+            "",
+            "int main() {",
+            "   cout << \"Hello world!\" << endl;"
+            "}"
+        ],
+        "description": "it is sample snippet"
+    }
+}
